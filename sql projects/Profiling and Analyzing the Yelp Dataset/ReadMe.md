@@ -1,6 +1,6 @@
 # Yelp Dataset Analysis
 
-![Yelp Database](path/to/https://github.com/deedee-ke/data-analysis/blob/main/sql%20projects/Profiling%20and%20Analyzing%20the%20Yelp%20Dataset/YelpERDiagram.png)
+![Yelp Database](path/to/YelpERDiagram.png)
 
 ## Project Overview
 
