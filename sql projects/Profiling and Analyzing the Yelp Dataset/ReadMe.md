@@ -1,6 +1,6 @@
 # Yelp Dataset Analysis
 
-![Yelp Database](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/hOlYbrgyEeeTsRKxhJ5OZg_517578844a2fd129650492eda3186cd1_YelpERDiagram.png)
+![Yelp Database][()
 
 ## Project Overview
 
