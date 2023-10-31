@@ -9,21 +9,8 @@ This SQL project demonstrates my data analysis skills using the Yelp dataset. In
 ## Table of Contents
 
 1. [Part 1: Yelp Dataset Profiling and Understanding](#part-1-yelp-dataset-profiling-and-understanding)
-    - Profile the data
-    - Find distinct records
-    - Identify columns with null values
-    - Explore star ratings and reviews
-    - List cities with the most reviews
-    - Distribution of star ratings by city
-    - Top users with the most fans
-    - Correlation between reviews and fans
-    - Occurrences of "love" and "hate" in reviews
-    - Top users with the most fans
 
 2. [Part 2: Inferences and Analysis](#part-2-inferences-and-analysis)
-    - Analyze businesses based on open/closed status
-    - Choose a specific analysis type
-    - Prepare data for sentiment analysis
 
 ## Part 1: Yelp Dataset Profiling and Understanding
 
